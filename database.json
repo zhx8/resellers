@@ -1,0 +1,348 @@
+{
+    "users": {
+        "440152099536240641": {
+            "credits": 49,
+            "keys": [
+                {
+                    "key": "key1",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07T00:43:54.912070",
+                    "expires": "2025-09-08"
+                },
+                {
+                    "key": "key1",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07T00:47:26.218511",
+                    "expires": "2025-09-08"
+                },
+                {
+                    "key": "key2",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07T00:49:41.369008",
+                    "expires": "2025-09-08"
+                },
+                {
+                    "key": "key3",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07T00:56:38.234096",
+                    "expires": "2025-09-08"
+                },
+                {
+                    "key": "w1e12",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07T01:11:26.620193",
+                    "expires": "2025-09-08"
+                },
+                {
+                    "key": "1\n2\n3\n4",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07T01:15:22.709166",
+                    "expires": "2025-09-08"
+                },
+                {
+                    "key": "hello5",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07T01:23:29.779795",
+                    "expires": "2025-09-08"
+                },
+                {
+                    "key": "hello6",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07T01:26:50.552883",
+                    "expires": "2025-09-08"
+                },
+                {
+                    "key": "hello7",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07T01:47:14.834327",
+                    "expires": "2025-09-08"
+                },
+                {
+                    "key": "w",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07T10:11:36.906000",
+                    "expires": "2025-09-08"
+                },
+                {
+                    "key": "6531",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07T16:33:37.691376",
+                    "expires": "2025-09-08"
+                },
+                {
+                    "key": "key1",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07 16:50:45",
+                    "expires": "2025-09-08 16:50:45"
+                },
+                {
+                    "key": "key2",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07 16:53:27",
+                    "expires": "2025-09-08 16:53:27"
+                },
+                {
+                    "key": "key3",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07 16:54:40",
+                    "expires": "2025-09-08 16:54:40"
+                },
+                {
+                    "key": "hey1",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07 16:56:47",
+                    "expires": "2025-09-08 16:56:47"
+                },
+                {
+                    "key": "hey2",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07 17:00:15",
+                    "expires": "2025-09-08 17:00:15"
+                },
+                {
+                    "key": "hey3",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07 17:01:17",
+                    "expires": "2025-09-08 17:01:17"
+                },
+                {
+                    "key": "hey4",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07 17:02:54",
+                    "expires": "2025-09-08 17:02:54"
+                },
+                {
+                    "key": "hey5",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07 17:04:30",
+                    "expires": "2025-09-08 17:04:30"
+                },
+                {
+                    "key": "KZJXMBTQWRPYLHVNCSGDAFUOIE",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07 17:19:41",
+                    "expires": "2025-09-08 17:19:41"
+                },
+                {
+                    "key": "QYUDVZLTXGFMJCKSPOIRABWENH",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07 17:19:41",
+                    "expires": "2025-09-08 17:19:41"
+                },
+                {
+                    "key": "RXGQHLMZBYFUDVTJWPANESCOIK",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07 17:19:41",
+                    "expires": "2025-09-08 17:19:41"
+                },
+                {
+                    "key": "JFWZCQXDRGNVMYLOHEKABUTISP",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07 17:19:41",
+                    "expires": "2025-09-08 17:19:41"
+                },
+                {
+                    "key": "YSGPMZRXCTFQLOANJDBIKWHVEU",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07 17:19:41",
+                    "expires": "2025-09-08 17:19:41"
+                },
+                {
+                    "key": "KXWPRHMTZQOLBYJFUGVSDCAINE",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07 17:19:41",
+                    "expires": "2025-09-08 17:19:41"
+                },
+                {
+                    "key": "UZMRYTNLHXQGBJWOSFIKPEADVC",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07 17:19:41",
+                    "expires": "2025-09-08 17:19:41"
+                },
+                {
+                    "key": "VQFUZTGRJWNYBKSHOMLXADPIEC",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07 17:19:41",
+                    "expires": "2025-09-08 17:19:41"
+                },
+                {
+                    "key": "LPOWKHXRTQMJFUZBYGIDVNESAC",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07 17:19:41",
+                    "expires": "2025-09-08 17:19:41"
+                },
+                {
+                    "key": "HZXWRYBQTMPLDUSFONJCAKGVIE",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07 17:19:41",
+                    "expires": "2025-09-08 17:19:41"
+                },
+                {
+                    "key": "wadawd",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-10 21:36:04",
+                    "expires": "2025-09-11 21:36:04"
+                },
+                {
+                    "key": "wad",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-10 21:36:04",
+                    "expires": "2025-09-11 21:36:04"
+                },
+                {
+                    "key": "2312",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-10 21:36:04",
+                    "expires": "2025-09-11 21:36:04"
+                },
+                {
+                    "key": "1237848912",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-10 21:54:48",
+                    "expires": "2025-09-11 21:54:48"
+                },
+                {
+                    "key": "12893412890",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-10 21:54:48",
+                    "expires": "2025-09-11 21:54:48"
+                },
+                {
+                    "key": "13u45893yu458913y813",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-10 21:54:48",
+                    "expires": "2025-09-11 21:54:48"
+                },
+                {
+                    "key": "8123yu4123789",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-10 21:54:48",
+                    "expires": "2025-09-11 21:54:48"
+                }
+            ],
+            "discount": 70,
+            "keys_generated": 25,
+            "total_spent": 75
+        },
+        "1242178027866030141": {
+            "credits": 0,
+            "keys": [
+                {
+                    "key": "21",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-07T16:33:30.086122",
+                    "expires": "2025-09-08"
+                }
+            ],
+            "discount": 80,
+            "keys_generated": 0,
+            "total_spent": 0
+        },
+        "1275643432588677193": {
+            "credits": 0,
+            "discount": 70,
+            "keys_generated": 1,
+            "total_spent": 3,
+            "keys": [
+                {
+                    "key": "21312342131",
+                    "product": "r6_day",
+                    "purchase_date": "2025-09-10 21:57:52",
+                    "expires": "2025-09-11 21:57:52"
+                }
+            ]
+        }
+    },
+    "products": {
+        "r6_day": {
+            "name": "R6 Full (1 Day)",
+            "credit_cost": 7,
+            "duration_days": 1,
+            "keys": []
+        },
+        "r6_week": {
+            "name": "R6 Full (1 Week)",
+            "credit_cost": 34,
+            "duration_days": 7,
+            "keys": []
+        },
+        "r6_month": {
+            "name": "R6 Full (1 Month)",
+            "credit_cost": 61,
+            "duration_days": 30,
+            "keys": []
+        },
+        "fn_day": {
+            "name": "Fortnite Private (1 Day)",
+            "credit_cost": 10,
+            "duration_days": 1,
+            "keys": []
+        },
+        "fn_3day": {
+            "name": "Fortnite Private (3 Days)",
+            "credit_cost": 19,
+            "duration_days": 3,
+            "keys": []
+        },
+        "fn_week": {
+            "name": "Fortnite Private (1 Week)",
+            "credit_cost": 34,
+            "duration_days": 7,
+            "keys": []
+        },
+        "fn_month": {
+            "name": "Fortnite Private (1 Month)",
+            "credit_cost": 55,
+            "duration_days": 30,
+            "keys": []
+        },
+        "fn_life": {
+            "name": "Fortnite Private (Lifetime)",
+            "credit_cost": 250,
+            "duration_days": 9999,
+            "keys": []
+        },
+        "spoofer_onetime": {
+            "name": "Perm Spoofer (One Time)",
+            "credit_cost": 27,
+            "duration_days": 9999,
+            "keys": []
+        },
+        "spoofer_life": {
+            "name": "Perm Spoofer (Lifetime)",
+            "credit_cost": 55,
+            "duration_days": 9999,
+            "keys": []
+        }
+    },
+    "orders": {
+        "81285385": {
+            "user_id": "440152099536240641",
+            "product_id": "r6_day",
+            "product_name": "R6 Full (1 Day)",
+            "key": "key1",
+            "price": 3,
+            "date": "2025-09-07T00:47:26.219515",
+            "expires": "2025-09-08"
+        },
+        "DC581CBD": {
+            "user_id": "440152099536240641",
+            "product_id": "r6_day",
+            "product_name": "R6 Full (1 Day)",
+            "key": "key2",
+            "price": 3,
+            "date": "2025-09-07T00:49:41.369637",
+            "expires": "2025-09-08"
+        },
+        "A3C2BDD5": {
+            "user_id": "440152099536240641",
+            "product_id": "r6_day",
+            "product_name": "R6 Full (1 Day)",
+            "key": "key3",
+            "price": 3,
+            "date": "2025-09-07T00:56:38.234851",
+            "expires": "2025-09-08"
+        }
+    },
+    "ticket_category": 1414192888752898119
+}
